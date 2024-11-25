@@ -46,32 +46,6 @@ flutter pub get
 4. Configure o Firebase
 5. Execute
 
-### Estrutura
-lib/
-├── components/
-│   ├── cart_item.dart
-│   ├── order_item.dart
-│   ├── product_grid.dart
-│   └── product_item.dart
-├── data/
-│   └── dummy_data.dart
-├── model/
-│   ├── auth.dart
-│   ├── cart.dart
-│   ├── orders.dart
-│   └── product.dart
-├── pages/
-│   ├── auth_screen.dart
-│   ├── cart_page.dart
-│   ├── orders_page.dart
-│   ├── product_detail_page.dart
-│   ├── product_form_page.dart
-│   ├── product_manager_page.dart
-│   └── products_overview_page.dart
-├── utils/
-│   └── app_routes.dart
-└── main.dart
-
 Tecnologias Utilizadas
 Flutter - Framework para desenvolvimento de aplicativos móveis.
 
