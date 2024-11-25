@@ -46,7 +46,7 @@ flutter pub get
 4. Configure o Firebase
 5. Execute
 
-Tecnologias Utilizadas
+### Tecnologias Utilizadas
 Flutter - Framework para desenvolvimento de aplicativos móveis.
 
 Firebase Authentication - Serviço de autenticação para aplicativos.
