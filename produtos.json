@@ -1,0 +1,33 @@
+{
+    "products": {
+      "p1": {
+        "title": "Bola",
+        "description": "Uma bola de futebol oficial.",
+        "price": 29.99,
+        "imageUrl": "https://example.com/bola.png",
+        "isFavorite": false
+      },
+      "p2": {
+        "title": "Camiseta",
+        "description": "Uma camiseta esportiva confortável.",
+        "price": 19.99,
+        "imageUrl": "https://example.com/camiseta.png",
+        "isFavorite": false
+      },
+      "p3": {
+        "title": "Tênis",
+        "description": "Um par de tênis de corrida.",
+        "price": 49.99,
+        "imageUrl": "https://example.com/tenis.png",
+        "isFavorite": false
+      },
+      "p4": {
+        "title": "Chuteira",
+        "description": "Uma chuteira profissional.",
+        "price": 59.99,
+        "imageUrl": "https://example.com/chuteira.png",
+        "isFavorite": false
+      }
+    }
+  }
+  

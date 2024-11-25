@@ -1,0 +1,110 @@
+{
+   "checksum": "4cafd17007193b6f60ea565c426a61c1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13369147613169112",
+            "date_last_used": "0",
+            "guid": "0d4b5cf3-5270-42c0-aa36-daf6c916924d",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Notificações | LinkedIn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linkedin.com/notifications/?filter=all",
+            "visit_count": 0
+         }, {
+            "date_added": "13369231385213020",
+            "date_last_used": "0",
+            "guid": "0be39c3e-02c3-40b7-af91-10bf76fe368b",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Login | Processo Ágil",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bernerspa.processoagil.com/Sistema/Login/login.aspx?EMP=9D5CD268-CD08-4720-86B3-BE2A87FBD922",
+            "visit_count": 1
+         }, {
+            "date_added": "13369836255532077",
+            "date_last_used": "0",
+            "guid": "8991d953-5ce1-41a5-afc0-64a596c9992c",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ListaConexaoRemota - MiniPC - Planilhas Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/16ZEKxz1z3-RRPz-FeTmoy9VQJgEuOGhNJdTTbyUaYtI/edit?gid=0#gid=0",
+            "visit_count": 1
+         }, {
+            "date_added": "13371132514880991",
+            "date_last_used": "0",
+            "guid": "687c1249-220c-4ddb-aca8-899f68d634c7",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Monitor de andamentos",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cs.processoagil.com.br/",
+            "visit_count": 1
+         }, {
+            "date_added": "13375282713196574",
+            "date_last_used": "0",
+            "guid": "91b1f1a5-1455-4277-962d-60f3e105b27c",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ATIVIDADES - NOVEMBRO - Documentos Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1h6uUsZZbD2Fdum7fycakZ7pZ3_wsWvBgRVbphrvlSu4/edit?tab=t.0",
+            "visit_count": 1
+         } ],
+         "date_added": "13377030864108811",
+         "date_last_used": "0",
+         "date_modified": "13375282713196574",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13377030864108817",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13377030864108820",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCJc0Q/ySAQAAEgAqGEJLeDJmZitKdVBORFFOaUlMQ2RIVHc9PUgDoAYHEq4BCAoSqQEKHE1ZMnBPRHVCaktRbkpNRUNGSHRISUliL000TT0SJDkxYjFmMWE1LTE0NTUtNDI3Ny05NjJkLTYwZjNlMTA1YjI3YxgAIAAoADCW6YzirzI4+euM4q8yQPnrjOKvMkocN3Vqb2FBT0lzWXlhdndRMzUzUjhWNFlremVzPVogIh7/pkdvN1BVbnNzTkVIYzZGZEFaeWIxK3Q3SjRrbz1lOca2sMI+AmAFEq0BCAgSqAEKHHZOUDBlTnRRTnpQanh2WHJlR05iYmVCYUwxYz0SJDg5OTFkOTUzLTVjZTEtNDFhNS1hZmMwLTY0YTU5NmM5OTkyYxgAIAAoADDOuIO9mzI48LqDvZsyQPC6g72bMkocMzNHQ2VFR1JOdUp3b21xeWNSeExQb1FWUmY0PVofIh3/MFcvLzh1YWRROUZXMzFBVCtSRHlFSHI3SGtBPWW+K+5Hwj4CYAUSrQEIBxKoAQocaDQyNjhVK2dpM3dqTlJBRU96emFsZDNPaXpFPRIkMGJlMzljM2UtMDJjMy00MGI3LWFmOTEtMTBiZjc2ZmUzNjhiGAAgACgAMOyIzZyZMji4is2cmTJAuIrNnJkyShx4c2Z2eTlwSENvNmhVanVQYU5JZWJhdFVrMWs9Wh8iHf1waUMzNi9JbWZpSDFpTWlmN3ZUckdaY2diVnc9ZbJV6rDCPgJgBRKtAQgJEqgBChxsKzJVZUw1cHhGUUdKa29EeGgyTllyODdNUEU9EiQ2ODdjMTI0OS0yMjBjLTRkZGItYWNhOC04OTlmNjhkNjM0YzcYACAAKAAw4+GQp6AyOOHjkKegMkDh45CnoDJKHGxwTXdjaGVNdkdXbjFOc1NOUGtOc29OSDVuTT1aHyId/0xYZ2hxbnF6dXJneTJ0OWcwVGwxejc3a3crMD1lL32FlcI+AmAFEq0BCAYSqAEKHERHVFN6dmJTVTZIUlZwSFpzWWZnT1dTWC9yZz0SJDBkNGI1Y2YzLTUyNzAtNDJjMC1hYTM2LWRhZjZjOTE2OTI0ZBgAIAAoADD69tP0mDI41PjT9JgyQNT40/SYMkocR211RFlLT0RUcURRbnVGeTFpblhtcHJaWFpJPVofIh36RjdMUk80L3hHV2xmQ280dVhjVUI0YWYrbk9JPWVFTUrRwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZTZhYjA1YjAtNmJmOS01OTE1LTgxNmMtMDgyZDZiOGEzN2ViGAAgACgAMM7E+aSxMDijmaLP9S9Ao5miz/UvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDliYmI5NWMxLTI1ODItNTg1My05YzkwLTEyMGRlNzQ0NGRkZRgAIAAoADDOxPmksTA4wpmiz/UvQMKZos/1L0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRmYThjYWU4MC1mZGI3LTU3OTEtYmYzMy03MmYyM2JmZjJkMGYYACAAKAAwzsT5pLEwOLCaos/1L0CwmqLP9S9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

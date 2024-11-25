@@ -1,0 +1,15 @@
+2024/11/25-17:14:28.435 653c Reusing MANIFEST C:\Users\Ellen\AppData\Local\Temp\flutter_tools.a6ba9d1e\flutter_tools_chrome_device.ebf0f558\Default\Session Storage/MANIFEST-000001
+2024/11/25-17:14:28.515 653c Recovering log #15
+2024/11/25-17:14:28.533 653c Reusing old log C:\Users\Ellen\AppData\Local\Temp\flutter_tools.a6ba9d1e\flutter_tools_chrome_device.ebf0f558\Default\Session Storage/000015.log 
+2024/11/25-17:14:28.545 653c Delete type=0 #3
+2024/11/25-17:14:28.545 653c Delete type=0 #12
+2024/11/25-17:14:28.545 653c Delete type=2 #17
+2024/11/25-17:14:28.791 653c Compacting 4@0 + 1@1 files
+2024/11/25-17:14:28.827 653c Generated table #18@0: 136 keys, 15001 bytes
+2024/11/25-17:14:28.828 653c Compacted 4@0 + 1@1 files => 15001 bytes
+2024/11/25-17:14:28.841 653c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/25-17:14:28.844 653c Delete type=2 #7
+2024/11/25-17:14:28.844 653c Delete type=2 #9
+2024/11/25-17:14:28.844 653c Delete type=2 #11
+2024/11/25-17:14:28.844 653c Delete type=2 #13
+2024/11/25-17:14:28.845 653c Delete type=2 #16

@@ -1,0 +1,10 @@
+2024/11/25-16:55:02.471 5ea8 Reusing MANIFEST C:\Users\Ellen\AppData\Local\Temp\flutter_tools.7268a950\flutter_tools_chrome_device.bb3a01d7\Default\Session Storage/MANIFEST-000001
+2024/11/25-16:55:02.478 5ea8 Recovering log #12
+2024/11/25-16:55:02.484 5ea8 Reusing old log C:\Users\Ellen\AppData\Local\Temp\flutter_tools.7268a950\flutter_tools_chrome_device.bb3a01d7\Default\Session Storage/000012.log 
+2024/11/25-16:55:02.487 5ea8 Delete type=0 #3
+2024/11/25-17:11:24.275 5ea8 Level-0 table #16: started
+2024/11/25-17:11:24.307 5ea8 Level-0 table #16: 27348 bytes OK
+2024/11/25-17:11:24.334 5ea8 Delete type=0 #12
+2024/11/25-17:11:24.336 5ea8 Compacting 4@0 + 1@1 files
+2024/11/25-17:11:25.768 5ea8 compacted to: files[ 4 1 1 0 0 0 0 ]
+2024/11/25-17:11:25.769 5ea8 Compaction error: IO error: C:\Users\Ellen\AppData\Local\Temp\flutter_tools.7268a950\flutter_tools_chrome_device.bb3a01d7\Default\Session Storage/000017.ldb: Unable to create writable file (ChromeMethodBFE: 9::NewWritableFile::16)
